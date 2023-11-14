@@ -1,0 +1,21 @@
+.card-info{
+  width: 90%;
+}
+
+.mat-icon{
+  font-size: 50px !important;
+  height: 50px !important;
+  width: 50px !important;
+}
+
+mat-card-title{
+  color: lightslategray;
+}
+
+mat-card-subtitle{
+  font-size: 18px !important;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 5px;
+  color: black;
+}
